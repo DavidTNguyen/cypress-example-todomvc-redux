@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cypress-io/cypress-example-todomvc-redux.git"
+    "url": "git+https://github.com/davidtnguyen/cypress-example-todomvc-redux.git"
   },
   "keywords": [
     "cypress",
